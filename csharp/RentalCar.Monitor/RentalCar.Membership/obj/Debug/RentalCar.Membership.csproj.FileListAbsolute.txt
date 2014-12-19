@@ -1,0 +1,13 @@
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RentalCar.Membership.exe.config
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RentalCar.Membership.exe
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RentalCar.Membership.pdb
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\Newtonsoft.Json.dll
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RabbitMQ.Client.dll
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RentalCar.Core.dll
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\fastJSON.dll
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RentalCar.Core.pdb
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\Newtonsoft.Json.xml
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\bin\Debug\RabbitMQ.Client.xml
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\obj\Debug\RentalCar.Membership.csprojResolveAssemblyReference.cache
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\obj\Debug\RentalCar.Membership.exe
+C:\Source\microservice_workshop\csharp\RentalCar.Monitor\RentalCar.Membership\obj\Debug\RentalCar.Membership.pdb
